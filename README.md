@@ -66,7 +66,8 @@ Mẫu Source Võ Lâm Truyền Kỳ Chuẩn Cày Cuốc 2005.
 
 ## Hướng Dẫn Cài Đặt.
   ```bash
-    data https://drive.google.com/file/d/1OKQi-HvKr04lyNlKf3Fhn5tW07qIm11Y/view?usp=drivesdk
+ 1. data
+https://drive.google.com/file/d/1OKQi-HvKr04lyNlKf3Fhn5tW07qIm11Y/view?usp=drivesdk
 
 ## Liên Hệ 
 
